@@ -18,7 +18,7 @@
 
         Then 4 is the first bad version. */
         
-        Solution: 
+//         Solution: 
         
              /**
                  * Definition for isBadVersion()
